@@ -2,6 +2,8 @@
 
 This script utilizes a recursive algorithm to navigate and solve mazes represented in a CSV file format. The maze solver finds the path from the start to the goal, visualizing the process in real-time.
 
+![Maze Solver Visualization](selfSolvingMaze.gif)
+
 ## Features
 
 - **Recursive Algorithm**: Uses a depth-first search approach to explore and solve mazes.
