@@ -22,5 +22,5 @@ This script utilizes a recursive algorithm to navigate and solve mazes represent
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/maze-solver.git
+   git clone https://github.com/evanmaus/maze-solver.git
    cd maze-solver
