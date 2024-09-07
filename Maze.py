@@ -67,6 +67,6 @@ def move(path):
             display_maze(maze,path)
             time.sleep(0.2)
 
-maze = get_maze('SelfSolvingMaze\Maze.csv')
+maze = get_maze('maze.csv')
 
 move(((1,0),))
